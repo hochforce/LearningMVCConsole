@@ -1,0 +1,20 @@
+<?xml version = "1.0"?>
+<classe>
+   <estudante id = "393">
+      <nome>Jõao</nome>
+      <sobrenome>da Silva</sobrenome>
+      <idade>15</idade>
+   </estudante>
+   
+   <estudante id = "393">
+      <nome>Roberto</nome>
+      <sobrenome>Carlos</sobrenome>
+      <idade>19</idade>
+   </estudante>
+   
+   <estudante id = "393">
+      <nome>Rita</nome>
+      <sobrenome>de Cassia</sobrenome>
+      <idade>16</idade>
+   </estudante>
+</classe>
